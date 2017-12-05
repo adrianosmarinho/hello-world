@@ -1,6 +1,15 @@
-// This class will call the calculator
-@author Adriano
+/**
+ * This class will call the calculator
+ * @author Adriano
+ */
 
-public static void Main(String args[]){
-print;("Hello world");
+
+public class Main{
+
+    public static void main(String[] args){
+        System.out.println("Hello world");
+    }
+
 }
+
+
